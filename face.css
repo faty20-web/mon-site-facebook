@@ -1,0 +1,107 @@
+.baner{
+    display:flex;
+    justify-content: space-between;
+    background-color: #3B5998;
+}
+.facebook{
+    color: white;
+    margin-left: 200px;
+    letter-spacing:0.5px;
+    padding: 10px;
+}
+.pass{
+    float: right;
+    margin-top: -3%;
+ 
+}
+
+.for{
+    color: white;
+    margin-top: 25px;
+    margin-right: 100px;
+}
+#connexion{
+    background-color:#3B5998 ;
+    color: white;
+    margin-left: 25px;
+}
+#inf{
+    float: inline-end;
+    margin-right:75px;
+    font-weight: lighter;
+    font-size: small;
+}
+.section{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.logo{
+    margin: 10%;
+    margin-top: 20px;
+}
+   
+.partage{
+    font-size:25px;
+    color:#233b6f;
+    font-weight:bold;
+}
+body{
+    background-color:rgb(228, 228, 241);
+}
+#inscription{
+    font-size:30px;
+}
+.menu{
+   width: 800px;
+}
+.prenom{
+    padding:10px;
+    border-radius: 5px;
+    border:none;
+    box-shadow:inset;
+}
+.email{
+    padding:10px;
+    padding-right: 200px;
+    border-radius: 5%;
+    border:none;
+}
+.comment{
+    float: inline-end;
+    margin-top: -1%;
+    padding-right:33%;
+    color: #3B5998;   
+
+}
+.bouton{
+    color:white;
+    background-color:rgb(54, 156, 80);
+    border:none;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size:15px;
+    margin-bottom: 35px;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(249, 241, 231);
+}
+#con1{
+    color:blue
+}
+#con2{
+    color: blue;
+}
+#con3{
+    color: blue;
+
+}
+#footer{
+    color:blue;
+
+}
